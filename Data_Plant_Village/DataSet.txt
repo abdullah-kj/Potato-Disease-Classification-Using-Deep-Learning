@@ -1,0 +1,16 @@
+To obtain data about the potato plant, visit the Kaggle website
+Being the most certain
+   https://www.kaggle.com/arjuntejaswi/plant-village
+ 
+When searching on the Kaggle website, more than one database on diseases was found
+It contains a database of files containing images of plant diseases
+Potatoes where good files contain a good number of digital images and have not been reported
+Photographer 2456 photos.
+
+When studying the quality of available data, potato plant data containing...
+Pictures of the plant in its healthy state: 456 pictures of diseases, and the total number of pictures was
+With blight disease
+The other case was early, and the total number of images was 1,000
+With late blight disease, the total number of images was
+One picture and the other case is injured
+1000 photos.
